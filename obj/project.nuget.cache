@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZWVN/yRPUtD9L/JX+TlVv6xFojlkwVdVkVodQvgm8MzXJsmX41q87NvCgjeY62XPR24X2JR0cwpBMf60K8dNTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chris\\source\\repos\\Stripe.Requests.NET\\Stripe.Requests.NET\\Stripe.Requests.NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

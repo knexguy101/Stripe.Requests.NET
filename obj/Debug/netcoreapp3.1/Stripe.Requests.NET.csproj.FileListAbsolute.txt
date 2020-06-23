@@ -1,0 +1,9 @@
+C:\Users\chris\source\repos\Stripe.Requests.NET\Stripe.Requests.NET\bin\Debug\netcoreapp3.1\Stripe.Requests.NET.deps.json
+C:\Users\chris\source\repos\Stripe.Requests.NET\Stripe.Requests.NET\bin\Debug\netcoreapp3.1\Stripe.Requests.NET.dll
+C:\Users\chris\source\repos\Stripe.Requests.NET\Stripe.Requests.NET\obj\Debug\netcoreapp3.1\Stripe.Requests.NET.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\Stripe.Requests.NET\Stripe.Requests.NET\obj\Debug\netcoreapp3.1\Stripe.Requests.NET.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Stripe.Requests.NET\Stripe.Requests.NET\obj\Debug\netcoreapp3.1\Stripe.Requests.NET.AssemblyInfo.cs
+C:\Users\chris\source\repos\Stripe.Requests.NET\Stripe.Requests.NET\bin\Debug\netcoreapp3.1\Stripe.Requests.NET.pdb
+C:\Users\chris\source\repos\Stripe.Requests.NET\Stripe.Requests.NET\obj\Debug\netcoreapp3.1\Stripe.Requests.NET.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Stripe.Requests.NET\Stripe.Requests.NET\obj\Debug\netcoreapp3.1\Stripe.Requests.NET.dll
+C:\Users\chris\source\repos\Stripe.Requests.NET\Stripe.Requests.NET\obj\Debug\netcoreapp3.1\Stripe.Requests.NET.pdb
